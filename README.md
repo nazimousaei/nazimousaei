@@ -2,7 +2,6 @@
 <h3 align="center">a mern stack developer</h3>
 <img  alt="coding" width:"200" src="https://cdn.dribbble.com/users/2601791/screenshots/10966815/media/e7b34c110bf62497bae375eb99af4ff1.gif" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naziwebdev" alt="naziwebdev" /></a> </p>
 
 - 💬 Ask me about **react , expressjs & ...**
 
